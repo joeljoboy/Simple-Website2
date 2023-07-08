@@ -124,3 +124,20 @@ body
     border-radius:20px;
     background: #7b1789;
 }
+/* ----------------------------------ABOUT US ----------------------------------- */
+#about-us
+{
+    background: #f8f9fa;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.about-title
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 8%;
+}
+#about-us ul li
+{
+    margin: 10px 0;
+}
